@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Roteiro_de_teste.iml" filepath="$PROJECT_DIR$/.idea/modules/Roteiro_de_teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Roteiro_de_teste.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Roteiro_de_teste.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Roteiro_de_teste.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Roteiro_de_teste.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Roteiro_de_teste.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Roteiro_de_teste.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Roteiro_de_teste.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Roteiro_de_teste.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
